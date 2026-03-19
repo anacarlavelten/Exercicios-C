@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*/Implemente uma função que troca o valor de duas variáveis 
+/*/1. Implemente uma função que troca o valor de duas variáveis 
 inteiras passadas como parâmetro./*/
 int troca(int *a,int *b){
     int c = *a;
